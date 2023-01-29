@@ -6,4 +6,4 @@ Gravity game with ball! Spins and hits randomly spawned objects- "good" or "bad"
 
 Issues to troubleshoot: multiple collisions being detected with same collider (add time delay between each detection?)
 
-Features to implement: Allow mouse to change rotation of the camera, clean up level design and Spawn Box.
+Features to implement: Allow mouse to change rotation of the camera, clean up level design and Spawn Box. Maybe add more levels?
